@@ -21,4 +21,4 @@ Apply with:
 
 Make default (Arch /etc/vconsole.conf)
 
-    FONT=ter-powerline-capitalized-v22n
+    FONT=ter-powerline-smallcaps-v22n
